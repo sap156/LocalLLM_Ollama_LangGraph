@@ -6,6 +6,9 @@ A powerful agentic AI application that discovers historical events that happened
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+![Screenshot 2025-05-23 at 10 34 24 AM](https://github.com/user-attachments/assets/87fa5c2f-0619-4279-bfa1-1a22a0f0b30b)
+
+
 ## 🌟 Features
 
 - 🔍 **Web Search**: Uses Tavily API to search for historical events
