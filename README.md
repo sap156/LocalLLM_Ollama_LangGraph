@@ -266,3 +266,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repo** if you found it helpful!
 
 📬 **Questions?** Open an issue or reach out!
+
+## 🌟 Why Local LLMs with Ollama and LangGraph?
+
+Running local LLMs (Large Language Models) with Ollama and LangGraph offers several compelling advantages and serves as a demonstration of how to run local LLMs using Ollama and build agentic applications on your local machine. This is ideal for proof-of-concepts (POCs) or scenarios where you prefer not to send your data to the cloud.
+
+### 🔒 Privacy
+- **Data Security**: All processing happens locally on your machine, ensuring that sensitive data never leaves your environment.
+- **No External APIs**: Unlike cloud-based solutions, local LLMs eliminate the risk of data breaches or unauthorized access.
+
+### 💰 Cost-Effectiveness
+- **No Subscription Fees**: Avoid recurring costs associated with cloud-based LLM services.
+- **One-Time Setup**: Once the model is downloaded, there are no additional charges for usage.
+
+### ⚡ Performance
+- **Low Latency**: While local processing eliminates network delays, it may be slower overall compared to cloud-based solutions due to limited local compute power.
+- **Offline Capability**: Operate seamlessly without an internet connection, making it ideal for remote or restricted environments.
+
+### 🛠️ Customization
+- **Model Flexibility**: Choose from a variety of models like `mistral:7b`, `llama2`, or `phi` to suit your specific needs.
+- **Fine-Tuning**: Tailor models to your unique requirements for improved accuracy and relevance.
+
+### 🏠 Independence
+- **Self-Reliance**: Gain full control over your AI workflows without relying on third-party services.
+
+By combining Ollama's local LLM capabilities with LangGraph's powerful agent framework, this application delivers a robust, private, and efficient solution for analyzing historical events.
