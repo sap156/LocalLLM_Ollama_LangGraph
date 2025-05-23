@@ -1,4 +1,4 @@
-# 📚 Historical Events AI Agent
+# 📚 Local LLM + Ollama + AI Agent 
 
 A powerful agentic AI application that discovers historical events that happened on today's date using Tavily search API and processes them with local LLMs via Ollama and LangGraph.
 
