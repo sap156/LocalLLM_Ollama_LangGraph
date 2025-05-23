@@ -40,7 +40,7 @@ User Input → Tavily Search → LLM Processing → Structured Response
 
 2. **Pull a Model**
    ```bash
-   ollama pull mistral
+   ollama pull mistral:7b
    # or try: llama2, codellama, phi, etc.
    ```
 
